@@ -36,4 +36,53 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * [光照传感器](./HomeKitType/Light%20Sensor.md)
 * [空气净化器](./HomeKitType/AirPurifier.md)
 
+还没有写的
+----
+* AirQualitySensor 空气质量传感器
+* CarbonDioxideSensor 二氧化碳传感器
+* CarbonMonoxideSensor 一氧化碳传感器
+* ContactSensor 门磁
+* Door 门
+* Doorbell 门铃
+* FilterMaintenance
+* Faucet
+* GarageDoorOpener
+* HeaterCooler
+* HumidifierDehumidifier
+* IrrigationSystem
+* LeakSensor
+* Lightbulb
+* LockManagement
+* LockMechanism
+* Microphone
+* MotionSensor
+* OccupancySensor
+* SecuritySystem
+* ServiceLabel
+* Slat
+* SmokeSensor
+* Speaker
+* StatelessProgrammableSwitch
+* Thermostat
+* Valve
+* Window
+* WindowCovering
+* CameraControl
+* StatefulProgrammableSwitch
+* Label
+* BridgeConfiguration
+* BridgingState
+* Pairing
+* ProtocolInformation
+* Relay
+* TimeInformation
+* TunneledBTLEAccessoryService
+* Television
+* InputSource
+* TelevisionSpeaker
+
+
+
+
+
 
