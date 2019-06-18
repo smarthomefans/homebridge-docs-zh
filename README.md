@@ -25,3 +25,15 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 
 还有另外两个比较重要的属性`username`和`pin码`,前者是我们常规理解的mac地址一样,后者是我们连接设备需要使用的一串数字
 
+设备(已经编写的)
+----
+* [开关](./HomeKitType/Switch.md)
+* [插座](./HomeKitType/Outlet.md)
+* [风扇](./HomeKitType/Fan.md)
+* [风扇V2](./HomeKitType/Fan2.md)
+* [温度传感器](./HomeKitType/TemperatureSensor.md)
+* [湿度传感器](./HomeKitType/HumiditySensor.md)
+* [光照传感器](./HomeKitType/Light%20Sensor.md)
+* [空气净化器](./HomeKitType/AirPurifier.md)
+
+
