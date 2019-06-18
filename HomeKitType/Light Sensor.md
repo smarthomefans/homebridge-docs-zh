@@ -4,7 +4,7 @@
 
 必要
 ---
-* `Characteristic.CurrentAmbientLightLevel` 开关状态,数据类型`bool`,对应值为`true` `false`
+* `Characteristic.CurrentAmbientLightLevel` 光照强度
     * format 数据类型,bool
     * unit 单位  lux
     * maxValue 最大值 100000
