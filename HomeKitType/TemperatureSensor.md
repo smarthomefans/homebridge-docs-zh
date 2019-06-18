@@ -8,8 +8,8 @@
     * format 数据类型,浮点数
     * unit 单位: celsius(摄氏度)
     * maxValue 最大值 100
-    * minValue 最小值
-    * minStep 最小进位 1
+    * minValue 最小值 0
+    * minStep 最小进位 0.1
     * perms 权限 读,通知
 
 
