@@ -36,6 +36,7 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * [光照传感器](./HomeKitType/Light%20Sensor.md)
 * [空气净化器](./HomeKitType/AirPurifier.md)
 * [门窗传感器](./HomeKitType/ContactSensor.md)
+* [人体传感器](./HomeKitType/MotionSensor.md)
 
 还没有写的
 ----
