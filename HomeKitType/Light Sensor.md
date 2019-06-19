@@ -5,10 +5,10 @@
 必要
 ---
 * `Characteristic.CurrentAmbientLightLevel` 光照强度
-    * format 数据类型,bool
+    * format 数据类型,FLOAT
     * unit 单位  lux
     * maxValue 最大值 100000
-    * minValue 最小值
+    * minValue 最小值 0.0001
     * perms 权限 读,通知
 
 
