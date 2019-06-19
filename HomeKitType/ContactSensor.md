@@ -4,7 +4,7 @@
 
 必要
 ---
-* `Characteristic.CurrentAmbientLightLevel` 状态,数据类型`bool`,对应值为`关闭: 0` `打开: 1`
+* `Characteristic.ContactSensorState` 状态, 对应值为`关闭: 0` `打开: 1`
     * format 数据类型,UINT8
     * maxValue 最大值 1
     * minValue 最小值 0
