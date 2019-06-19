@@ -39,6 +39,7 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * [人体传感器](./HomeKitType/MotionSensor.md)
 * [烟雾传感器](./HomeKitType/SmokeSensor.md)
 * [水浸传感器](./HomeKitType/LeakSensor.md)
+* [空间占用传感器](./HomeKitType/OccupancySensor.md)
 
 还没有写的
 ----
