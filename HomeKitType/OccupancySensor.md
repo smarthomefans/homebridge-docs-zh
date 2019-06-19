@@ -1,6 +1,6 @@
 # OccupancySensor (空间占用传感器)
 
-[HAP-NodeJS 地址](https://github.com/KhaosT/HAP-NodeJS/blob/master/lib/gen/HomeKitTypes.js#L3088)
+[HAP-NodeJS 地址](https://github.com/KhaosT/HAP-NodeJS/blob/master/lib/gen/HomeKitTypes.js#L3240)
 
 >空间占用传感器是一款能针对不同类型用户应用检测空间或位置占用的应用。 例如根据占用情况控制照明和空调实现节能的应用。 室内占用传感器需要识别人，而不是其它移动的物体如纸张、植物、风扇。
 
