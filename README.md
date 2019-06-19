@@ -38,6 +38,7 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * [门窗传感器](./HomeKitType/ContactSensor.md)
 * [人体传感器](./HomeKitType/MotionSensor.md)
 * [烟雾传感器](./HomeKitType/SmokeSensor.md)
+* [水浸传感器](./HomeKitType/LeakSensor.md)
 
 还没有写的
 ----
@@ -52,7 +53,6 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * HeaterCooler
 * HumidifierDehumidifier
 * IrrigationSystem
-* LeakSensor
 * Lightbulb
 * LockManagement
 * LockMechanism
