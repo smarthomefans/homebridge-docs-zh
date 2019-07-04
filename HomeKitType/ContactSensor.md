@@ -9,7 +9,11 @@
     * maxValue 最大值 1
     * minValue 最小值 0
     * perms 权限 读,通知
-
+```js
+// The value property of ContactSensorState must be one of the following:
+Characteristic.ContactSensorState.CONTACT_DETECTED = 0;
+Characteristic.ContactSensorState.CONTACT_NOT_DETECTED = 1;
+```
 
 非必要 
 ---

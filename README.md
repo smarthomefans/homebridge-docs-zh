@@ -40,6 +40,8 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * [烟雾传感器](./HomeKitType/SmokeSensor.md)
 * [水浸传感器](./HomeKitType/LeakSensor.md)
 * [空间占用传感器](./HomeKitType/OccupancySensor.md)
+* [空调](./HomeKitType/HeaterCooler.md)
+* [恒温器](./HomeKitType/Thermostat.md)
 
 还没有写的
 ----
@@ -51,23 +53,20 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * FilterMaintenance
 * Faucet
 * GarageDoorOpener
-* HeaterCooler
 * HumidifierDehumidifier
 * IrrigationSystem
-* Lightbulb
+* Lightbulb 灯泡
 * LockManagement
 * LockMechanism
 * Microphone
-* OccupancySensor
 * SecuritySystem
 * ServiceLabel
 * Slat
 * Speaker
 * StatelessProgrammableSwitch
-* Thermostat
 * Valve
-* Window
-* WindowCovering
+* Window 窗户
+* WindowCovering  窗帘
 * CameraControl
 * StatefulProgrammableSwitch
 * Label
