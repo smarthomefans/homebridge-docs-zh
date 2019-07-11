@@ -42,13 +42,13 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * [空间占用传感器](./HomeKitType/OccupancySensor.md)
 * [空调](./HomeKitType/HeaterCooler.md)
 * [恒温器](./HomeKitType/Thermostat.md)
+* [门](./HomeKitType/Door.md)
 
 还没有写的
 ----
 * AirQualitySensor 空气质量传感器
 * CarbonDioxideSensor 二氧化碳传感器
 * CarbonMonoxideSensor 一氧化碳传感器
-* Door 门
 * Doorbell 门铃
 * FilterMaintenance
 * Faucet
