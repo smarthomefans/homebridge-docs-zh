@@ -43,6 +43,7 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * [空调](./HomeKitType/HeaterCooler.md)
 * [恒温器](./HomeKitType/Thermostat.md)
 * [门](./HomeKitType/Door.md)
+* [灯](./HomeKitType/Lightbulb.md)
 
 还没有写的
 ----
@@ -55,7 +56,6 @@ HomeBridge 插件会发布 Accessories 和 Platforms，Accessories是一个独�
 * GarageDoorOpener
 * HumidifierDehumidifier
 * IrrigationSystem
-* Lightbulb 灯泡
 * LockManagement
 * LockMechanism
 * Microphone

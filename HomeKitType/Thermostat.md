@@ -1,6 +1,7 @@
 # Thermostat(恒温器) 
 
-[HAP-NodeJS 地址](https://github.com/KhaosT/HAP-NodeJS/blob/master/lib/gen/HomeKitTypes.js#L3443)
+[HAP-NodeJS 地址](https://github.com/KhaosT/HAP-NodeJS/blob/v0.4.50/lib/gen/HomeKitTypes.js#L3443)
+                  
 
 必要
 ---
